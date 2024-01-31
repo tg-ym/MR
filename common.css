@@ -63,7 +63,7 @@ input::-ms-input-placeholder { color:#B3B3B3 }
 .scroll-to-top { display:none;position:fixed;width:1.8rem;height:1.8rem;bottom:1rem;right:0.5rem;border-radius:50%;background:#FFF url(../images/arrow-top.png) no-repeat center;background-size:1rem 1rem;box-shadow:0 0 10px 0 rgba(0,0,0,0.15) }
 
 /* 版权 */
-.copyright { width:15rem;height:3rem;padding-top:1rem;color:#CCC;background:#F5F7FA }
+.copyright { width:10rem;height:3rem;padding-top:1rem;color:#CCC;background:#F5F7FA }
 .copyright p { height:1rem;line-height:1rem;text-align:center }
 
 /* 条件选择 */
